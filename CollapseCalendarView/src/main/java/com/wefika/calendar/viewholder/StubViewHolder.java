@@ -1,4 +1,4 @@
-package com.wefika.calendar.models;
+package com.wefika.calendar.viewholder;
 
 /**
  * Created by Blaz Solar on 22/04/14.

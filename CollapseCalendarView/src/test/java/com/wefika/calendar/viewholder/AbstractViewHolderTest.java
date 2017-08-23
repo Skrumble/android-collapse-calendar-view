@@ -1,4 +1,4 @@
-package com.wefika.calendar.models;
+package com.wefika.calendar.viewholder;
 
 import android.view.View;
 

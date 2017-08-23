@@ -13,11 +13,9 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.wefika.calendar.manager.CalendarManager;
 import com.wefika.calendar.manager.Day;
 import com.wefika.calendar.manager.Formatter;
 import com.wefika.calendar.manager.Month;
-import com.wefika.calendar.manager.ResizeManager;
 import com.wefika.calendar.manager.Week;
 import com.wefika.calendar.widget.DayView;
 import com.wefika.calendar.widget.WeekView;

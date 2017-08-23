@@ -1,14 +1,13 @@
-package com.wefika.calendar.manager;
+package com.wefika.calendar;
 
 import android.support.annotation.NonNull;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewTreeObserver;
 
-import com.wefika.calendar.CollapseCalendarView;
-import com.wefika.calendar.models.AbstractViewHolder;
-import com.wefika.calendar.models.SizeViewHolder;
-import com.wefika.calendar.models.StubViewHolder;
+import com.wefika.calendar.viewholder.AbstractViewHolder;
+import com.wefika.calendar.viewholder.SizeViewHolder;
+import com.wefika.calendar.viewholder.StubViewHolder;
 
 /**
  * Created by Blaz Solar on 17/04/14.

@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 import com.wefika.calendar.CollapseCalendarView;
-import com.wefika.calendar.manager.CalendarManager;
+import com.wefika.calendar.CalendarManager;
 
 import org.joda.time.LocalDate;
 

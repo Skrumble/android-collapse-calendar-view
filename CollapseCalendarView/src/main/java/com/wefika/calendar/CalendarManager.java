@@ -1,7 +1,14 @@
-package com.wefika.calendar.manager;
+package com.wefika.calendar;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
+
+import com.wefika.calendar.manager.CalendarUnit;
+import com.wefika.calendar.manager.DefaultFormatter;
+import com.wefika.calendar.manager.Formatter;
+import com.wefika.calendar.manager.Month;
+import com.wefika.calendar.manager.RangeUnit;
+import com.wefika.calendar.manager.Week;
 
 import org.joda.time.LocalDate;
 

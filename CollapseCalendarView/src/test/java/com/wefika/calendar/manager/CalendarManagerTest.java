@@ -1,5 +1,7 @@
 package com.wefika.calendar.manager;
 
+import com.wefika.calendar.CalendarManager;
+
 import org.joda.time.LocalDate;
 import org.junit.Before;
 import org.junit.Test;
